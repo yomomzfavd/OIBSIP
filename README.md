@@ -1,2 +1,2 @@
 # OIBSIP
-Internship tasks for the Oasis Infobyte Cybersecurity Internship.
+Tasks for the Oasis Infobyte Cybersecurity Internship.
