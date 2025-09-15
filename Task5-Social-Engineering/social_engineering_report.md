@@ -29,10 +29,13 @@ AI deepfake scams use artificial intelligence to create fake videos and audio re
 
 ## 3. Case Studies
 
-•	##RSA Security Breach (2011):## A phishing email containing a malicious Excel attachment compromised RSA’s SecurID tokens, which impacted multiple organizations relying on RSA for authentication (Greenberg, 2021).
-•	##Target Data Breach (2013):## Attackers used stolen vendor credentials obtained via a phishing campaign to access Target’s network, leading to the theft of 40 million credit card details (Krebs, 2014). This breach underscores the need for robust third-party access management and employee awareness training
-•	##Ubiquiti Networks (2015):## Pretexting and CEO fraud led to $46.7 million in losses when attackers impersonated company executives via email (SentinelOne, 2025).
-•	##Deepfake CFO Impersonation (2024):## the British engineering firm Arup was reportedly attacked by a sophisticated deepfake attack by the attacker masquerading as the CFO and other senior leaders of the firm leading to the loss of $25 million (SentinelOne, 2025).
+•	RSA Security Breach (2011): A phishing email containing a malicious Excel attachment compromised RSA’s SecurID tokens, which impacted multiple organizations relying on RSA for authentication (Greenberg, 2021).
+
+•	Target Data Breach (2013): Attackers used stolen vendor credentials obtained via a phishing campaign to access Target’s network, leading to the theft of 40 million credit card details (Krebs, 2014). This breach underscores the need for robust third-party access management and employee awareness training
+
+•	Ubiquiti Networks (2015): Pretexting and CEO fraud led to $46.7 million in losses when attackers impersonated company executives via email (SentinelOne, 2025).
+
+•	Deepfake CFO Impersonation (2024): The British engineering firm Arup was reportedly attacked by a sophisticated deepfake attack by the attacker masquerading as the CFO and other senior leaders of the firm leading to the loss of $25 million (SentinelOne, 2025).
 
 ## 4. Impact of Social Engineering Attacks  
 Social engineering attacks have significant consequences:  
